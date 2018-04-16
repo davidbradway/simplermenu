@@ -1,0 +1,16 @@
+{
+  "requests": [
+    {
+      "features": [
+        {
+          "type": "DOCUMENT_TEXT_DETECTION"
+        }
+      ],
+      "image": {
+        "source": {
+          "imageUri": "gs://simplermenubucket/menu-design.gif"
+        }
+      }
+    }
+  ]
+}
